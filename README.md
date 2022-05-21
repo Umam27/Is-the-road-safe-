@@ -7,6 +7,7 @@
 
 ## Answer to question B:
 ### I have taken the data from Kaggle - [link](https://www.kaggle.com/datasets/rakeshrau/social-network-ads)
+### Data Name - Social Networking Ads
 ### This data contains 5 columns and 400 rows
 ### More description of the data can be found in the Jupyter Notebook.
 
